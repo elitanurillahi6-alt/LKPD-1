@@ -1,0 +1,23 @@
+ <html>
+        <head></head>
+        <body> 
+     
+                website pertamaku
+
+
+</body>
+   
+
+<h1>Hello Word,Nama Saya Elita nur illahi</h1>
+<p>Ini adalah hari pertama saya belajar HTML.Saya siap menjadi Programer RPL yang hebat.</p>
+
+
+<h3>Biodata Singkat:</h3>
+   <ul>
+	 <li style="color:blue;"> Nama:Elita nur illahi <li>
+ 	<li style="color:yellow;"> Kelas:x RPL B </li>
+	<li style="color:red;"> Hobi:Shopping <li>
+    
+   <ul>
+</html>
+                                                                                                                                                 
